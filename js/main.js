@@ -1,6 +1,7 @@
 window.onload = inicio;
 
 //Nueva linea de prueba
+//Nuevo cambio
 
 function inicio(){
    /*var nombre = prompt("Ingrese su nombre");
